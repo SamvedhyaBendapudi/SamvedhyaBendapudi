@@ -6,7 +6,8 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
-- 👨‍💻 You can know me more <a href = '[https://samvedhyabendapudi.github.io/SamvedhyaPortfolio/](https://samvedhyabendapudi.github.io/SamvedhyaPortfolio/)'> Portfolio </a>
+- 👨‍💻 You can know me more <a href="https://samvedhyabendapudi.github.io/SamvedhyaPortfolio/">Portfolio</a>
+
 
 - 📫 How to reach me **sbendapudi3769@sdsu.edu**  or <a href = 'https://www.linkedin.com/in/samvedhya-bendapudi/'> Linkedin</a> 
 
