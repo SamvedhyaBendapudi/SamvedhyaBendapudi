@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Samvedhya Bendapudi</h1>
-
-
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=3%2B%20years%20of%20Python%20experience;Full-stack%20web%20developer;Machine%20Learning%20Enthusiast;Coding%20Enthusiast&font=Roboto%20Code&center=true&width=440&height=45&color=&#00FFFFvCenter=true&size=22"></a>
 </h3>
 
@@ -9,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
-- 👨‍💻 You can know me more [https://samvedhyabendapudi.github.io/SamvedhyaPortfolio/](https://samvedhyabendapudi.github.io/SamvedhyaPortfolio/)
+- 👨‍💻 You can know me more <a href = '[https://samvedhyabendapudi.github.io/SamvedhyaPortfolio/](https://samvedhyabendapudi.github.io/SamvedhyaPortfolio/)'> Portfolio </a>
 
 - 📫 How to reach me **sbendapudi3769@sdsu.edu**  or <a href = 'https://www.linkedin.com/in/samvedhya-bendapudi/'> Linkedin</a> 
 
