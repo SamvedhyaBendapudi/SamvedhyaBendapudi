@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Samvedhya Bendapudi</h1>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=3%2B%20years%20of%20Python%20experience;Full-stack%20web%20developer;Machine%20Learning%20Enthusiast;Coding%20Enthusiast&font=Roboto%20Code&center=true&width=440&height=45&color=&#00FFFFvCenter=true&size=22"></a>
+
+
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=3%2B%20years%20of%20Python%20experience;Full-stack%20web%20developer;Machine%20Learning%20Enthusiast;Coding%20Enthusiast&font=Roboto%20Code&center=true&width=440&height=45&color=&#00FFFFvCenter=true&size=22"></a>
 </h3>
+
+
 - 🔭 I’m currently working on **Web Development**
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
 - 👨‍💻 You can know me more [https://samvedhyabendapudi.github.io/SamvedhyaPortfolio/](https://samvedhyabendapudi.github.io/SamvedhyaPortfolio/)
 
+- 📫 How to reach me **sbendapudi3769@sdsu.edu**  or <a href = 'https://www.linkedin.com/in/samvedhya-bendapudi/'> Linkedin</a> 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/samvedhya bendapudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samvedhya bendapudi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/samvedhyab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samvedhyab" height="30" width="40" /></a>
 </p>
 
