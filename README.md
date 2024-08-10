@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samvedhya Bendapudi</h1>
  
- 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=3%2B%20years%20of%20Python%20experience;Full-stack%20web%20developer;Machine%20Learning%20Enthusiast;Coding%20Enthusiast&font=Roboto%20Code&center=true&width=440&height=45&color=&#00FFFFvCenter=true&size=22"></a>
+<h3 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20something%20new;Coding%20Enthusiast&font=Roboto%20Code&center=true&width=440&height=45&color=61DBFB&vCenter=true&size=22"></a>
 </h3>
-
 
 - 🔭 I’m currently working on **Web Development**
 
@@ -11,8 +10,8 @@
 
 - 👨‍💻 You can know me more <a href="https://samvedhyabendapudi.github.io/SamvedhyaPortfolio/">Portfolio</a>
 
+- 📫 How to reach me **sbendapudi3769@sdsu.edu**  or <a href = 'https://www.linkedin.com/in/samvedhya-bendapudi/'> Linkedin</a>
 
-- 📫 How to reach me **sbendapudi3769@sdsu.edu**  or <a href = 'https://www.linkedin.com/in/samvedhya-bendapudi/'> Linkedin</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
