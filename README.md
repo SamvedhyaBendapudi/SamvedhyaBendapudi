@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sbendapudi3769@sdsu.edu**  or <a href = 'https://www.linkedin.com/in/samvedhya-bendapudi/'> Linkedin</a>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BFnPpvHrlKrcght1JGgakai1W7EyGob5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1p5WhvieGYFvmfEotwarWCQp5nixRZ7M7/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
